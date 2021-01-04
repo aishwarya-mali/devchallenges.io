@@ -27,7 +27,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -48,6 +47,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://aishwarya-mali.github.io/)
-- GitHub [@your-username](https://github.com/aishwarya-mali)
-- Twitter [@your-twitter](https://twitter.com/html_newbiee)
+- Website [aishwarya-mali.github.io](https://aishwarya-mali.github.io/)
+- GitHub [@aishwarya-mali](https://github.com/aishwarya-mali)
+- Twitter [@html_newbiee](https://twitter.com/html_newbiee)
