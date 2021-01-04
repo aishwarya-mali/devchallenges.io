@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/aishwarya-mali/devchallenges.io/blob/main/404-not-found-master/screenshot-desktop.png)
 
 You can see demo of this challenge at https://404notfound-devchallenges.netlify.app/ . I often don't understand what to build so that I could practice my skills. So, having readymade files made alot of things easy. I always used px for unit but for this challenge I have used rem.
 
